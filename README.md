@@ -21,7 +21,7 @@ The author is **not responsible** for any misuse.
 ---
 
 ## ⚠️ Test Folder
-The `TEST` folder contains a collection of scripts that **have not been tested**. Use them at your own risk, only on devices you own or have explicit permission to test.
+The `TEST Scripts` folder contains a collection of scripts that **have not been tested**. Use them at your own risk, only on devices you own or have explicit permission to test.
 
 ---
 
